@@ -86,3 +86,6 @@ justify-content: center;
   flex: initial;
   width: 300px;
 }
+.sign-up{
+    margin-left: auto;
+}
